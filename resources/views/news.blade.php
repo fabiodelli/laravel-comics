@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
 
-    <h1>Movies page</h1>
+    <h1>news page</h1>
 </div>
 
 @endsection
